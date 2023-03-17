@@ -1,0 +1,1 @@
+nn(titanic_net,[X],Y,[0,1]) :: if_survive(X, Y).
